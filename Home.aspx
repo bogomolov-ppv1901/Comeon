@@ -5,6 +5,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Home</title>
+<link rel="Stylesheet" href="Style/style.css" type="text/css" />
+<script type="text/javascript" src="Scripts/logoscript/logo.js"></script>
 </head>
 <body>
     <form id="form1" runat="server">
